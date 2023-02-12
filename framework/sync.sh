@@ -1,0 +1,1 @@
+fetch -v --all --prune

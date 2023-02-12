@@ -1,0 +1,1 @@
+git log --pretty=format:"%<(13,trunc)%Cred%h%<(20,trunc)%C(bold blue)%cn%Cgreen%<(25,trunc)%cr%Creset%<(100,trunc)%s%Cgreen%d%<(100,trunc)"
